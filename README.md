@@ -9,8 +9,9 @@ High-Quality Sound: Each bar on the xylophone produces a distinct, high-quality 
 Colorful Bars: The xylophone bars are color-coded for easy identification and a visually appealing experience.
 Responsive Touch Controls: Smooth and responsive touch controls ensure an enjoyable playing experience.
 Educational: Helps users, especially children, to learn and recognize different musical notes and sounds.
-Screenshots
-(Include screenshots of your app here)
+
+Screenshot
+![screenshot image](images/xylophone_screenshot.png)
 
 ## Installation
 Clone the repository:
