@@ -3,14 +3,8 @@
 ## Overview
 The Xylophone Mobile App is an engaging and interactive musical instrument app developed using Flutter and Dart. This app transforms your mobile device into a colorful xylophone, allowing users to play musical notes by tapping on the bars. It is designed for users of all ages to enjoy and learn basic music concepts through a fun and intuitive interface.
 
-## Features
-Simple and Intuitive Interface: The app features a user-friendly design that makes it easy for anyone to start playing immediately.
-High-Quality Sound: Each bar on the xylophone produces a distinct, high-quality sound corresponding to musical notes.
-Colorful Bars: The xylophone bars are color-coded for easy identification and a visually appealing experience.
-Responsive Touch Controls: Smooth and responsive touch controls ensure an enjoyable playing experience.
-Educational: Helps users, especially children, to learn and recognize different musical notes and sounds.
 
-Screenshot
+## Screenshot
 ![screenshot image](images/xylophone_screenshot.png)
 
 ## Installation
